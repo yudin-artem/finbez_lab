@@ -1,0 +1,97 @@
+seed,Time,log1p(Amount),Отсечение,Метод,PR-AUC
+42,без,False,без,Robust Mahalanobis,0.6816778343639508
+42,без,False,без,Isolation Forest,0.2979897073226757
+42,без,False,без,K-means,0.12128926016053702
+42,без,False,без,Empirical Mahalanobis,0.417013478161649
+42,без,False,с,Robust Mahalanobis,0.6652445070231167
+42,без,False,с,Isolation Forest,0.302746768805545
+42,без,False,с,K-means,0.39998723696313787
+42,без,False,с,Empirical Mahalanobis,0.6020408750523614
+42,без,True,без,Robust Mahalanobis,0.681590390742284
+42,без,True,без,Isolation Forest,0.30572276848835056
+42,без,True,без,K-means,0.13404781848422095
+42,без,True,без,Empirical Mahalanobis,0.4319069628636762
+42,без,True,с,Robust Mahalanobis,0.6647868218390846
+42,без,True,с,Isolation Forest,0.31919373768599796
+42,без,True,с,K-means,0.3751428769573692
+42,без,True,с,Empirical Mahalanobis,0.6188855486295227
+42,с,False,без,Robust Mahalanobis,0.6818108187303198
+42,с,False,без,Isolation Forest,0.28851559859041015
+42,с,False,без,K-means,0.10842162885512384
+42,с,False,без,Empirical Mahalanobis,0.4168174237596413
+42,с,False,с,Robust Mahalanobis,0.665372720000757
+42,с,False,с,Isolation Forest,0.2930415003128688
+42,с,False,с,K-means,0.3305505693381896
+42,с,False,с,Empirical Mahalanobis,0.6018561163903442
+42,с,True,без,Robust Mahalanobis,0.681694853559859
+42,с,True,без,Isolation Forest,0.3123753332098113
+42,с,True,без,K-means,0.13806709583568239
+42,с,True,без,Empirical Mahalanobis,0.43141429110282853
+42,с,True,с,Robust Mahalanobis,0.6646022717634502
+42,с,True,с,Isolation Forest,0.3045960483965616
+42,с,True,с,K-means,0.4024387695542994
+42,с,True,с,Empirical Mahalanobis,0.6185666208183159
+1,без,False,без,Robust Mahalanobis,0.6765663723995502
+1,без,False,без,Isolation Forest,0.2684506683465129
+1,без,False,без,K-means,0.0789209156439463
+1,без,False,без,Empirical Mahalanobis,0.42469365975472073
+1,без,False,с,Robust Mahalanobis,0.6656138056262431
+1,без,False,с,Isolation Forest,0.31735903115213465
+1,без,False,с,K-means,0.37415753228932236
+1,без,False,с,Empirical Mahalanobis,0.5867165183579145
+1,без,True,без,Robust Mahalanobis,0.6762562535185406
+1,без,True,без,Isolation Forest,0.3236395637767397
+1,без,True,без,K-means,0.08370904258446615
+1,без,True,без,Empirical Mahalanobis,0.454199984596539
+1,без,True,с,Robust Mahalanobis,0.665760039382918
+1,без,True,с,Isolation Forest,0.31512160262562294
+1,без,True,с,K-means,0.2326555994402366
+1,без,True,с,Empirical Mahalanobis,0.6002524242244691
+1,с,False,без,Robust Mahalanobis,0.6765370985703443
+1,с,False,без,Isolation Forest,0.2882651435580875
+1,с,False,без,K-means,0.08580755787219063
+1,с,False,без,Empirical Mahalanobis,0.42436296693180886
+1,с,False,с,Robust Mahalanobis,0.66493914362428
+1,с,False,с,Isolation Forest,0.2998508180925623
+1,с,False,с,K-means,0.4083530438913963
+1,с,False,с,Empirical Mahalanobis,0.5863262133672579
+1,с,True,без,Robust Mahalanobis,0.6766438531159036
+1,с,True,без,Isolation Forest,0.2996028675918931
+1,с,True,без,K-means,0.14255735166666014
+1,с,True,без,Empirical Mahalanobis,0.4537430879808872
+1,с,True,с,Robust Mahalanobis,0.6649760991837699
+1,с,True,с,Isolation Forest,0.3141743097077107
+1,с,True,с,K-means,0.21597077291069197
+1,с,True,с,Empirical Mahalanobis,0.5998012534958809
+2,без,False,без,Robust Mahalanobis,0.6548975446425851
+2,без,False,без,Isolation Forest,0.265336901870059
+2,без,False,без,K-means,0.09896320392402831
+2,без,False,без,Empirical Mahalanobis,0.38041877257240414
+2,без,False,с,Robust Mahalanobis,0.6388738694391314
+2,без,False,с,Isolation Forest,0.2953774983006792
+2,без,False,с,K-means,0.3075179149495479
+2,без,False,с,Empirical Mahalanobis,0.5652687918677841
+2,без,True,без,Robust Mahalanobis,0.6540363370656459
+2,без,True,без,Isolation Forest,0.2530071067200603
+2,без,True,без,K-means,0.11914006614757097
+2,без,True,без,Empirical Mahalanobis,0.39728136230657407
+2,без,True,с,Robust Mahalanobis,0.6401191321663285
+2,без,True,с,Isolation Forest,0.30085046932411946
+2,без,True,с,K-means,0.33874047356255893
+2,без,True,с,Empirical Mahalanobis,0.5854109257615877
+2,с,False,без,Robust Mahalanobis,0.654849584860986
+2,с,False,без,Isolation Forest,0.25326510596278046
+2,с,False,без,K-means,0.10704215547970912
+2,с,False,без,Empirical Mahalanobis,0.3801497395829615
+2,с,False,с,Robust Mahalanobis,0.6386829378457978
+2,с,False,с,Isolation Forest,0.25721330616759824
+2,с,False,с,K-means,0.34867378057861415
+2,с,False,с,Empirical Mahalanobis,0.5649492859648141
+2,с,True,без,Robust Mahalanobis,0.6539860092603006
+2,с,True,без,Isolation Forest,0.2696576661565019
+2,с,True,без,K-means,0.09745532328458513
+2,с,True,без,Empirical Mahalanobis,0.3969167932553519
+2,с,True,с,Robust Mahalanobis,0.6399075562957715
+2,с,True,с,Isolation Forest,0.2746715735259042
+2,с,True,с,K-means,0.42064581353981706
+2,с,True,с,Empirical Mahalanobis,0.5849370633159912

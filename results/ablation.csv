@@ -1,0 +1,64 @@
+seed,Вариант,Метод,PR-AUC,Параметры
+42,без отсечения,Robust Mahalanobis,0.6816778343639508,{'support_fraction': 1.0}
+42,без отсечения,Isolation Forest,0.3109883274913865,{'max_samples': 1.0}
+42,без отсечения,K-means,0.12128926016053702,{'n_clusters': 256}
+1,без отсечения,Robust Mahalanobis,0.6765663723995502,{'support_fraction': 1.0}
+1,без отсечения,Isolation Forest,0.3227217701078767,{'max_samples': 1.0}
+1,без отсечения,K-means,0.0789209156439463,{'n_clusters': 256}
+2,без отсечения,Robust Mahalanobis,0.6548975446425851,{'support_fraction': 1.0}
+2,без отсечения,Isolation Forest,0.30409570420697707,{'max_samples': 1.0}
+2,без отсечения,K-means,0.09896320392402831,{'n_clusters': 256}
+42,отсечение 5,Robust Mahalanobis,0.6651267500593651,{'support_fraction': 0.99}
+42,отсечение 5,Isolation Forest,0.4085531929842764,{'max_samples': 1.0}
+42,отсечение 5,K-means,0.2969804081245462,{'n_clusters': 256}
+1,отсечение 5,Robust Mahalanobis,0.6778008693992201,{'support_fraction': 0.99}
+1,отсечение 5,Isolation Forest,0.41521321399166683,{'max_samples': 1.0}
+1,отсечение 5,K-means,0.5392844999468275,{'n_clusters': 256}
+2,отсечение 5,Robust Mahalanobis,0.6414009920791446,{'support_fraction': 0.99}
+2,отсечение 5,Isolation Forest,0.4172494086736412,{'max_samples': 1.0}
+2,отсечение 5,K-means,0.2760592348878267,{'n_clusters': 256}
+42,отсечение 10,Robust Mahalanobis,0.6652445070231167,{'support_fraction': 1.0}
+42,отсечение 10,Isolation Forest,0.33864134068591184,{'max_samples': 1.0}
+42,отсечение 10,K-means,0.39998723696313787,{'n_clusters': 256}
+1,отсечение 10,Robust Mahalanobis,0.6656138056262431,{'support_fraction': 1.0}
+1,отсечение 10,Isolation Forest,0.33217085827839804,{'max_samples': 1.0}
+1,отсечение 10,K-means,0.37415753228932236,{'n_clusters': 256}
+2,отсечение 10,Robust Mahalanobis,0.6388738694391314,{'support_fraction': 1.0}
+2,отсечение 10,Isolation Forest,0.30407681938986364,{'max_samples': 1.0}
+2,отсечение 10,K-means,0.3075179149495479,{'n_clusters': 256}
+42,отсечение 20,Robust Mahalanobis,0.6707682941478107,{'support_fraction': 1.0}
+42,отсечение 20,Isolation Forest,0.28016270982453545,{'max_samples': 1.0}
+42,отсечение 20,K-means,0.2366314170443921,{'n_clusters': 256}
+1,отсечение 20,Robust Mahalanobis,0.6721717786513699,{'support_fraction': 1.0}
+1,отсечение 20,Isolation Forest,0.2842407178030752,{'max_samples': 1.0}
+1,отсечение 20,K-means,0.1847577759541695,{'n_clusters': 256}
+2,отсечение 20,Robust Mahalanobis,0.645674898583392,{'support_fraction': 1.0}
+2,отсечение 20,Isolation Forest,0.2510269481443533,{'max_samples': 1.0}
+2,отсечение 20,K-means,0.19559618395168765,{'n_clusters': 256}
+42,отсечение 50,Robust Mahalanobis,0.6791461160755563,{'support_fraction': 1.0}
+42,отсечение 50,Isolation Forest,0.29513282867702184,{'max_samples': 1.0}
+42,отсечение 50,K-means,0.13369943776783172,{'n_clusters': 1024}
+1,отсечение 50,Robust Mahalanobis,0.6765957878510306,{'support_fraction': 1.0}
+1,отсечение 50,Isolation Forest,0.2800620470403431,{'max_samples': 1.0}
+1,отсечение 50,K-means,0.1221023090538553,{'n_clusters': 1024}
+2,отсечение 50,Robust Mahalanobis,0.6532560826506248,{'support_fraction': 1.0}
+2,отсечение 50,Isolation Forest,0.25870114308713626,{'max_samples': 1.0}
+2,отсечение 50,K-means,0.11977259859615463,{'n_clusters': 1024}
+42,с Time,Robust Mahalanobis,0.665372720000757,{'support_fraction': 1.0}
+42,с Time,Isolation Forest,0.31761960148320373,{'max_samples': 1.0}
+42,с Time,K-means,0.3305505693381896,{'n_clusters': 256}
+1,с Time,Robust Mahalanobis,0.66493914362428,{'support_fraction': 1.0}
+1,с Time,Isolation Forest,0.350304891990467,{'max_samples': 1.0}
+1,с Time,K-means,0.4083530438913963,{'n_clusters': 256}
+2,с Time,Robust Mahalanobis,0.6386829378457978,{'support_fraction': 1.0}
+2,с Time,Isolation Forest,0.2797679894713662,{'max_samples': 1.0}
+2,с Time,K-means,0.34867378057861415,{'n_clusters': 256}
+42,log1p(Amount),Robust Mahalanobis,0.6647868218390846,{'support_fraction': 1.0}
+42,log1p(Amount),Isolation Forest,0.3278151059560765,{'max_samples': 0.75}
+42,log1p(Amount),K-means,0.3751428769573692,{'n_clusters': 256}
+1,log1p(Amount),Robust Mahalanobis,0.665760039382918,{'support_fraction': 1.0}
+1,log1p(Amount),Isolation Forest,0.3435290073756998,{'max_samples': 0.75}
+1,log1p(Amount),K-means,0.2326555994402366,{'n_clusters': 256}
+2,log1p(Amount),Robust Mahalanobis,0.6401191321663285,{'support_fraction': 1.0}
+2,log1p(Amount),Isolation Forest,0.304709056640354,{'max_samples': 0.75}
+2,log1p(Amount),K-means,0.33874047356255893,{'n_clusters': 256}
